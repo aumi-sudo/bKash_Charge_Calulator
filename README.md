@@ -3,6 +3,8 @@
 
 A simple, lightweight web tool to calculate the total amount you need to pay when cashing out from a bKash agent — including the service charge.
 
+https://aumi-sudo.github.io/bKash_Charge_Calulator/
+
 ## Why I Made This
 
 The official bKash website has a charge calculator, but it only shows you the charge amount — not the total you actually need to have in your account. I got tired of doing the math manually every time, so I built this for my own use. If anyone else finds it useful, great!
