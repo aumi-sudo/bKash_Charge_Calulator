@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "rates": {
+    "CASHOUT": {
+      "charge_percentage": 1.85,
+      "min_amount": 50,
+      "max_amount": 30000
+    },
+    "MONEY_SEND": {
+      "charge_percentage": 2.0,
+      "min_amount": 1,
+      "max_amount": 100000
+    }
+  }
+}
